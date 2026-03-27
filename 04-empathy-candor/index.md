@@ -157,9 +157,7 @@ Empathy ensures you see clearly. Candor ensures you act on what you see. You don
 
 I’ve experienced both sides of this.
 
-I’ve been in environments where empathy and candor coexisted. Where leaders took the time to understand context and still pushed on standards. That combination brought out my best work.
-
-You feel challenged, but also trusted. You take more risks because you know the feedback comes from a place of investment, not judgment. In those environments, problems surface early. Feedback is direct, but not personal. Disagreement is part of the process, not something to avoid.
+I’ve been in environments where empathy and candor coexisted. Where leaders took the time to understand context and still pushed on standards. That combination brought out my best work. You feel challenged, but also trusted. You take more risks because you know the feedback comes from a place of investment, not judgment. In those environments, problems surface early. Feedback is direct, but not personal. Disagreement is part of the process, not something to avoid.
 
 People focus more on solving problems than protecting themselves. Decisions move faster because less energy is spent second-guessing intent. Trust builds quietly through consistent interactions.
 
@@ -169,11 +167,7 @@ Sometimes, hard conversations were avoided. Issues lingered. Standards slipped q
 
 In both cases, the effect was the same. Work shifted from solving meaningful problems to defending decisions. Energy moved from progress to self-protection. Over time, trust eroded, the culture became toxic, and in some cases, crossed into outright abuse.
 
-These patterns don’t show up all at once.
-
-People stop raising issues early. Feedback gets delayed or softened. Meetings sound aligned, but real concerns surface later.
-
-Over time, behavior shifts. People optimize for safety instead of impact. They say less in public and more in private. They spend more time defending decisions than making them.
+These patterns don’t show up all at once. People stop raising issues early. Feedback gets delayed or softened. Meetings sound aligned, but real concerns surface later. Over time, behavior shifts. People optimize for safety instead of impact. They say less in public and more in private. They spend more time defending decisions than making them.
 
 This is what happens when empathy and candor fall out of balance.
 
