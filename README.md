@@ -38,10 +38,13 @@ This is not a playbook. It’s a way to understand how leadership actually works
 - The cost of reacting on impulse  
 - Ego, stress, and self-awareness  
 
-### 4. The Balance of Empathy and Candor
-- Caring personally while challenging directly  
-- When candor turns harsh  
-- When empathy becomes avoidance  
+### 4. [The Balance of Empathy and Candor](04-empathy-candor/index.md)
+- Defining empathy: understanding, awareness, intent vs impact, and staying with the problem before you fix it  
+- Empathy in practice: precision over softness; questions that surface context, pressure, and what’s unsaid  
+- Where empathy meets candor: care personally, challenge directly; ruinous empathy, obnoxious aggression, and the space in between  
+- When the balance is missing: high trust and high standards together vs avoidance, harsh feedback, and culture that erodes  
+- Making it operational: timing, curiosity, separating behavior from identity; candor that runs both ways  
+- What it looks like: empathy shapes how truth lands; candor ensures you act on what you see  
 
 ---
 
