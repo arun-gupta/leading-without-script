@@ -22,7 +22,7 @@ Merriam-Webster gives the definition of empathy:
 
 > the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experiences of another
 
-**Understanding**: This is the cognitive part. You don’t have to agree with someone to understand where they’re coming from. It’s about context. What pressures are they under? What tradeoffs are they making? Good leaders ask better questions instead of jumping to conclusions.
+**Understanding**: This is the cognitive part. You don’t have to agree with someone to understand where they’re coming from. It’s about context. What pressures are they under? What trade-offs are they making? Good leaders ask better questions instead of jumping to conclusions.
 
 **Being aware**: Awareness is about noticing what isn’t being said. Tone, pauses, shifts in energy, and non-verbal cues. Most people will not spell things out. If you’re not paying attention, you’ll miss the real signal.
 
@@ -48,7 +48,7 @@ It is not softness. It’s precision. You see people clearly, and because of tha
 
 The key is not just asking questions, but asking them from the intent to understand, not to steer.
 
-It also requires a shift in posture. 
+It also requires a shift in posture.
 
 You need to be more interested in understanding the other person than in making yourself interesting by offering a solution.
 
@@ -76,8 +76,8 @@ Here are questions that actually work in practice, grouped by what you’re tryi
 - Is there something I’m not seeing clearly?  
 
 ### To go deeper without leading
-- Can you say more about that?
-- Tell me more. This simple prompt often reveals more than expected.
+- Can you say more about that?  
+- Tell me more — this simple prompt often reveals more than expected.  
 - What makes that important to you?  
 - How did you arrive at that view?  
 
@@ -133,7 +133,7 @@ Trust doesn’t come from what you say. It comes from whether someone feels unde
 
 Empathy is also what makes challenge effective.
 
-A common mistake is thinking empathy means softening feedback. It doesn’t. It makes feedback land. 
+A common mistake is thinking empathy means softening feedback. It doesn’t. It makes feedback land.
 
 Without empathy, the same feedback feels like judgment. It triggers defensiveness. The conversation shifts from learning to self-protection.
 
@@ -163,9 +163,7 @@ People focus more on solving problems than protecting themselves. Decisions move
 
 When that balance is missing, the shift is subtle at first.
 
-Sometimes, hard conversations were avoided. Issues lingered. Standards slipped quietly, and frustration built under the surface. Other times it showed up as blunt criticism without context. Feedback felt personal, assumptions replaced curiosity, and disagreement felt unsafe.
-
-In both cases, the effect was the same. Work shifted from solving meaningful problems to defending decisions. Energy moved from progress to self-protection. Over time, trust eroded, the culture became toxic, and in some cases, crossed into outright abuse.
+Sometimes, hard conversations were avoided. Issues lingered. Standards slipped quietly, and frustration built under the surface. Other times it showed up as blunt criticism without context. Feedback felt personal, assumptions replaced curiosity, and disagreement felt unsafe. In both cases, the effect was the same. Work shifted from solving meaningful problems to defending decisions. Energy moved from progress to self-protection. Over time, trust eroded, the culture became toxic, and in some cases, crossed into outright abuse.
 
 These patterns don’t show up all at once. People stop raising issues early. Feedback gets delayed or softened. Meetings sound aligned, but real concerns surface later. Over time, behavior shifts. People optimize for safety instead of impact. They say less in public and more in private. They spend more time defending decisions than making them.
 
