@@ -8,13 +8,13 @@ Messages get repeated. Meaning decays. Gaps get filled with assumptions.
 
 If you’re not tired of repeating something, your team hasn’t internalized it yet.
 
-Clarity is not what you say once. It’s what people hear—and what they keep hearing—not only what you said in the room.
+Clarity is not what you say once. It’s what people hear (and what they keep hearing), not only what you said in the room.
 
 ## Intent, action, and impact: close the loop until it’s mutual
 
 Most communication breaks here.
 
-Your intent is private. Your actions are visible—words, including non-verbal cues, such as timing, tone, what you don’t follow up on. Your impact is what others experience.
+Your intent is private. Your actions are visible: words, including non-verbal cues, such as timing, tone, what you don’t follow up on. Your impact is what others experience.
 
 Leaders speak from intent. Teams react to impact.
 
@@ -85,11 +85,11 @@ Choose the channel for the job, not only for your comfort.
 
 This is where communication starts to work as a system.
 
-Same substance, calibrated by audience and setting—not a new message every week for the sake of novelty.
+Same substance, calibrated by audience and setting, not a new message every week for the sake of novelty.
 
 Say it across the places people already gather. Adapt examples and emphasis, not the core trade-off. Reinforce it over time.
 
-You know it’s working when people can predict you—when they cross paths with you and already know your first question. When they start saying the thing back in their own words.
+You know it’s working when people can predict you: when they cross paths with you and already know your first question. When they start saying the thing back in their own words.
 
 That’s alignment. Repetition here serves clarity, not noise.
 

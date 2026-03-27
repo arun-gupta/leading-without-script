@@ -65,7 +65,7 @@ Here are questions that actually work in practice, grouped by what you’re tryi
 
 ### To go deeper without leading
 - Can you say more about that?  
-- Tell me more — this simple prompt often reveals more than expected.  
+- Tell me more: this simple prompt often reveals more than expected.  
 - What makes that important to you?  
 - How did you arrive at that view?  
 
