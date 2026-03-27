@@ -54,7 +54,7 @@ This is not a playbook. It’s a way to understand how leadership actually works
 
 These chapters __pair your behavior with others__ (communication, credibility, psychological safety) with __how work actually moves__ (disagreement, decisions, routing problems, and what you tolerate): one progression from signal to system.
 
-### 5. [Clear Communication](05-communication/index.md)
+### 5. Clear Communication
 - Communication as a system: decay, assumptions, and what people hear, not only what you say once  
 - The gap between intent, action, and impact; close the loop until understanding is mutual  
 - Say what you know and what you don’t; name trade-offs; label discussion, decision, or direction  
