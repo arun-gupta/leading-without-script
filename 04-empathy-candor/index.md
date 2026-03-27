@@ -2,17 +2,11 @@
 
 ![Cover image](cover.png)
 
-Empathy gets talked about a lot in leadership. Often in ways that make it sound soft or secondary to execution.
+Empathy gets talked about a lot in leadership. Often in ways that make it sound soft or secondary to execution. At the same time, candor is treated as a separate muscle. Be direct. Give feedback. Hold the bar high.
 
-At the same time, candor is treated as a separate muscle. Be direct. Give feedback. Hold the bar high.
+In practice, most leaders struggle not because they lack one or the other, but because they don’t know how the two fit together. And in some cases, they lack both. When empathy is missing, candor turns harsh. When candor is missing, empathy turns into avoidance.
 
-In practice, most leaders struggle not because they lack one or the other, but because they don’t know how the two fit together. And in some cases, they lack both.
-
-When empathy is missing, candor turns harsh. When candor is missing, empathy turns into avoidance.
-
-The real work of leadership is holding both at the same time.
-
-So let’s look at what that actually means.
+The real work of leadership is holding both at the same time. So let’s look at what that actually means.
 
 # Defining Empathy
 
@@ -42,15 +36,9 @@ Only once you truly understand does the question become what to do with it.
 
 ## Empathy in Leadership Practice
 
-Empathy is not about lowering standards. It’s about removing the friction that gets in the way of people doing their best work.
+Empathy is not about lowering standards. It’s about removing the friction that gets in the way of people doing their best work. It is not softness. It’s precision. You see people clearly, and because of that, you lead them better.
 
-It is not softness. It’s precision. You see people clearly, and because of that, you lead them better.
-
-The key is not just asking questions, but asking them from the intent to understand, not to steer.
-
-It also requires a shift in posture.
-
-You need to be more interested in understanding the other person than in making yourself interesting by offering a solution.
+The key is not just asking questions, but asking them from the intent to understand, not to steer. It also requires a shift in posture. You need to be more interested in understanding the other person than in making yourself interesting by offering a solution.
 
 Here are questions that actually work in practice, grouped by what you’re trying to uncover:
 
@@ -108,12 +96,9 @@ Only after that do you earn the right to challenge or guide.
 
 This is exactly where the concept of [Radical Candor](https://www.radicalcandor.com/) by Kim Scott fits in.
 
-It boils leadership down to two ideas. Care personally. Challenge directly.  
-Simple to say. Hard to do.
+It boils leadership down to two ideas. Care personally. Challenge directly. Simple to say, but, hard to do.
 
-The book frames this as a simple quadrant based on those two axes.
-
-Most leaders lean toward one and neglect the other. They either care and avoid hard conversations, or they challenge without building trust. Both feel easier in the moment, and both fail over time.
+The book frames this as a simple quadrant based on those two axes. Most leaders lean toward one and neglect the other. They either care and avoid hard conversations, or they challenge without building trust. Both feel easier in the moment, and both fail over time.
 
 When you care personally and challenge directly, you get **radical candor**. This is where trust and high standards coexist.
 
@@ -127,17 +112,11 @@ Most leaders move between these quadrants depending on the situation. The goal i
 
 Empathy is what makes care real.
 
-Without empathy, care becomes performative. You say the right things. You check the boxes. But you don’t actually understand what the other person is dealing with. And people can tell.
+Without empathy, care becomes performative. You say the right things. You check the boxes. But you don’t actually understand what the other person is dealing with. And people can tell. Trust doesn’t come from what you say. It comes from whether someone feels understood.
 
-Trust doesn’t come from what you say. It comes from whether someone feels understood.
+Empathy is also what makes challenge effective. A common mistake is thinking empathy means softening feedback. It doesn’t. It makes feedback land.
 
-Empathy is also what makes challenge effective.
-
-A common mistake is thinking empathy means softening feedback. It doesn’t. It makes feedback land.
-
-Without empathy, the same feedback feels like judgment. It triggers defensiveness. The conversation shifts from learning to self-protection.
-
-With empathy, the feedback is still direct, but it connects. The other person can see that you understand their context, their intent, and their constraints. That changes how the message is received.
+Without empathy, the same feedback feels like judgment. It triggers defensiveness. The conversation shifts from learning to self-protection. With empathy, the feedback is still direct, but it connects. The other person can see that you understand their context, their intent, and their constraints. That changes how the message is received.
 
 Same message. Completely different outcome.
 
@@ -175,13 +154,9 @@ Understanding the balance is one thing. Practicing it consistently is another. I
 
 You don’t delay tough feedback, but you choose the moment with intent. You are direct about the issue while separating behavior from identity. You stay curious in the conversation instead of trying to win it. You adjust how you deliver based on the person, not your own comfort.
 
-Feedback is not a one-time event. It is part of an ongoing conversation. You use your 1:1s to maintain that continuity, and when something is significant, you create the space for a focused conversation rather than letting it sit.
+Feedback is not a one-time event. It is part of an ongoing conversation. You use your 1:1s to maintain that continuity, and when something is significant, you create the space for a focused conversation rather than letting it sit. You also make this two-way. You create space for others to challenge you, not just accept your feedback. Candor only works when it moves in both directions.
 
-You also make this two-way. You create space for others to challenge you, not just accept your feedback. Candor only works when it moves in both directions.
-
-None of this is complicated. But it is uncomfortable.
-
-Most leaders don’t struggle with knowing what to do. They struggle with doing it consistently, especially when the stakes are high.
+None of this is complicated. But it is uncomfortable. Most leaders don’t struggle with knowing what to do. They struggle with doing it consistently, especially when the stakes are high.
 
 This is where leadership actually shows up.
 
