@@ -10,7 +10,7 @@ Leading without a script is about responding to what’s actually in front of yo
 
 This book follows that progression.
 
-It starts with how leadership actually shows up: unclear trade-offs most days, and sometimes high stakes, with no obvious right move in either case. Next, it moves inward, focusing on how leaders manage themselves. It then turns outward in one arc: how you communicate, how you shape risk and psychological safety, how disagreement becomes commitment, and how problems and standards travel before culture hardens. After that, it examines the culture you reinforce: what you celebrate, how you show up day to day, and who you become when judgment is all you have. A short closing follows on what to carry forward without turning any of this back into a script.
+It starts with how leadership actually shows up: unclear trade-offs most days, and sometimes high stakes, with no obvious right move in either case. Next, it moves inward, focusing on how leaders manage themselves. It then turns outward in one arc: how you [communicate](05-communication/index.md), how you shape risk and psychological safety, how disagreement becomes commitment, and how problems and standards travel before culture hardens. After that, it examines the culture you reinforce: what you celebrate, how you show up day to day, and who you become when judgment is all you have. A short closing follows on what to carry forward without turning any of this back into a script.
 
 Along the way, it draws on techniques I’ve used over the years across multiple companies, shaped by real situations rather than theory.
 
@@ -52,15 +52,16 @@ This is not a playbook. It’s a way to understand how leadership actually works
 
 ## Part III: How You Show Up, and What You Create Around You
 
-These chapters __pair your behavior with others__ (communication, credibility, psychological safety) with __how work actually moves__ (disagreement, decisions, routing problems, and what you tolerate): one progression from signal to system.
+These chapters __pair your behavior with others__ ([communication](05-communication/index.md), credibility, psychological safety) with __how work actually moves__ (disagreement, decisions, routing problems, and what you tolerate): one progression from signal to system.
 
-### 5. Clear Communication
+### 5. [Clear Communication](05-communication/index.md)
 - Communication as a system: decay, assumptions, and what people hear, not only what you say once  
 - The gap between intent, action, and impact; close the loop until understanding is mutual  
 - Say what you know and what you don’t; name trade-offs; label discussion, decision, or direction  
 - Mindful talking and reflective listening in the moments you are actively aligning  
 - The right channel for the job: 1:1s, team forums, written updates, short video for tone and scale  
-- When repetition serves clarity: same substance, calibrated by audience, until the message lands  
+- A personal routing loop when one broadcast is not enough: 1:1s, AMAs, checking what landed after public forums, written status, newsletters, cross-org forums, exec echo  
+- Repetition and brevity: same substance across venues, short enough to travel and repeat until it lands  
 
 ### 6. Vulnerability and Psychological Safety
 - Your credibility: dropping the mask, naming limits, and admitting uncertainty without eroding the bar  
