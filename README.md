@@ -10,7 +10,7 @@ Leading without a script is about responding to what’s actually in front of yo
 
 This book follows that progression.
 
-It starts with how leadership actually shows up: unclear trade-offs most days, and sometimes high stakes, with no obvious right move in either case. Next, it moves inward, focusing on how leaders manage themselves. It then turns outward in one arc: how you [communicate](05-communication/index.md), how you shape risk and psychological safety, how disagreement becomes commitment, and how problems and standards travel before culture hardens. After that, it examines the culture you reinforce: what you celebrate, how you show up day to day, and who you become when judgment is all you have. A short closing follows on what to carry forward without turning any of this back into a script.
+It starts with how leadership actually shows up: unclear trade-offs most days, and sometimes high stakes, with no obvious right move in either case. Next, it moves inward, focusing on how leaders manage themselves. It then turns outward in one arc: how you communicate, how you shape risk and psychological safety, how disagreement becomes commitment, and how problems and standards travel before culture hardens. After that, it examines the culture you reinforce: what you celebrate, how you show up day to day, and who you become when judgment is all you have. A short closing follows on what to carry forward without turning any of this back into a script.
 
 Along the way, it draws on techniques I’ve used over the years across multiple companies, shaped by real situations rather than theory.
 
