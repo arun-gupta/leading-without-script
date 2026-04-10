@@ -52,7 +52,7 @@ This is not a playbook. It’s a way to understand how leadership actually works
 
 ## Part III: How You Show Up, and What You Create Around You
 
-These chapters __pair your behavior with others__ ([communication](05-communication/index.md), credibility, psychological safety) with __how work actually moves__ (disagreement, decisions, routing problems, and what you tolerate): one progression from signal to system.
+These chapters __pair your behavior with others__ ([communication](05-communication/index.md), credibility, [psychological safety](06-psychological-safety/index.md)) with __how work actually moves__ (disagreement, decisions, routing problems, and what you tolerate): one progression from signal to system.
 
 ### 5. [Clear Communication](05-communication/index.md)
 - Communication as a system: decay, assumptions, and what people hear, not only what you say once  
@@ -63,7 +63,7 @@ These chapters __pair your behavior with others__ ([communication](05-communicat
 - A personal routing loop when one broadcast is not enough: 1:1s, AMAs, checking what landed after public forums, written status, newsletters, cross-org forums, exec echo  
 - Repetition and brevity: same substance across venues, short enough to travel and repeat until it lands  
 
-### 6. Vulnerability and Psychological Safety
+### 6. [Psychological safety](06-psychological-safety/index.md)
 - Your credibility: dropping the mask, naming limits, and admitting uncertainty without eroding the bar  
 - Psychological safety: lowering the cost of speaking up, being wrong, or dissenting early (whether honesty feels survivable)  
 - How your vulnerability and follow-through shape whether people trust the team’s risk climate  
