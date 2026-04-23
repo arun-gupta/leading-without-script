@@ -1,12 +1,10 @@
 ## Psychological safety
 
+![Cover image](cover.png)
+
 ### What this actually is
 
 Psychological safety is the shared belief that you can speak up without paying for it.
-
-It means you can ask questions, admit mistakes, challenge ideas, or say "I don't know," and you won't be ignored, punished, or quietly sidelined for it. There is no social penalty for being honest about what you see, what you think, or what you don't understand.
-
-That's it.
 
 When it is present, people take those risks in the open. They ask, push back, and name what is unclear, because the downside of honesty feels smaller than the cost of staying quiet. Problems get named while they are still small. Assumptions get tested before they harden into plans. The team learns in public instead of repeating the same blind spots in private. You get fewer surprises, less rework, and decisions people can actually stand behind.
 
@@ -15,6 +13,26 @@ When it is missing, the same people still notice the same problems, but they wei
 It is not about being nice. It is not about avoiding conflict. It is not about making people comfortable. A team can be polite and still be silent, and a silent team is a dangerous team. What you are really creating is permission to take interpersonal risk in front of others.
 
 Psychological safety is not about how people feel in general. It is about what they are willing to do in moments that carry risk.
+
+### The balance that matters
+
+Psychological safety on its own is not the goal. Amy Edmondson, who named and studied this idea, is careful on this point, and it is worth repeating: safety is not about lowering the bar. It is about raising what people can say while the bar stays high.
+
+The easiest way to see this is to put safety and standards on two axes. Every team sits in one of four zones.
+
+![Amy Edmondson's 2x2 matrix of psychological safety and accountability](amy-edmondson-2x2.png)
+
+**Apathy zone: low safety, low standards.** Nobody pushes, nobody is expected to. People coast, good ones leave, the team quietly decays.
+
+**Comfort zone: high safety, low standards.** People like each other and speak freely, but nothing improves. Deadlines slip, feedback softens, excellence is optional. Feels healthy from the inside.
+
+**Anxiety zone: low safety, high standards.** The bar is high, but the cost of being wrong is higher. People perform, hide mistakes, and stop saying "I don't know." Looks like excellence until the best people leave.
+
+**Learning zone: high safety, high standards.** People speak early, challenge directly, and are still held to a real bar. Problems surface while they are small. Disagreement is part of the work.
+
+You do not drift into the learning zone. Teams default to comfort or anxiety, depending on which side the leader is more afraid of. Too afraid of conflict, and you slide into comfort. Too afraid of slipping, and you grip your way into anxiety. Both feel responsible in the moment. Both cost you later.
+
+The learning zone is maintained, not declared. You reinforce both sides at once—openness *and* expectation, candor *and* accountability. Remove either side, and the system drifts to the nearest lower zone.
 
 ### The signal you're missing
 
@@ -54,37 +72,13 @@ A new person on the team gives an incomplete answer. You don't finish the senten
 
 None of these are scripts. They are evidence. In my meetings, I practice them regularly.
 
-And I have been in meetings where this was frowned upon. Where asking "what am I missing?" was read as weakness, not curiosity. Where admitting "I got this wrong" landed as something to be filed away and used later. Where the person who pushed back on the senior voice in the room found themselves quietly cut out of the next conversation, and the one after that. Nobody announces this. You just notice, after a while, that the people who spoke up are no longer in the room. The rest of the team notices too. They adjust. The meetings get smoother, the decisions get worse, and everyone learns that the cost of honesty is paid in installments.
-
-That is the environment I am writing against. It is more common than the polished version of leadership admits.
-
 People don't decide once if it is safe to speak. They watch what happens when someone disagrees with you, when someone says "I don't know," when something breaks. Those moments teach the system more than any statement ever will.
 
 Every team settles at the level of honesty its leader can handle.
 
-### The balance that matters
-
-Psychological safety on its own is not the goal. Amy Edmondson, who named and studied this idea, is careful on this point, and it is worth repeating.
-
-If you push safety without standards, the team becomes comfortable but not effective. People speak, but nothing improves. Accountability fades, and the bar drops.
-
-If you push standards without safety, the team becomes quiet. People aim to meet expectations, but they stop taking risks. Learning slows down because no one wants to be wrong in public.
-
-Neither state works.
-
-What you are trying to create is the learning zone. A place where people speak early, challenge directly, and still operate against high standards. Where problems surface quickly, not after damage is done. Where disagreement is part of the process, not a disruption.
-
-This balance is maintained, not declared. Remove either side, and the system drifts.
-
 ### What it costs, and what it rewards
 
-Teams do not take cues from what leaders say. They take cues from what leaders risk.
-
-If you always appear certain, people will wait until they are certain. If you never admit mistakes, people will hide theirs. If you do not change your mind, others will stop trying to influence it.
-
 One framing I use with my team: "Give me the maximum information in this room, so I can defend it for you in rooms you are not in." That is the deal. If a risk has been softened or a concern has been held back, I end up defending a version of reality that is not true. That helps no one.
-
-Two phrases I lean on in almost every meeting: "What am I missing?" and "What are we not thinking about?" They put my own limits on the table first, which makes it cheaper for everyone else to do the same.
 
 Psychological safety is rarely lost in a single moment. It erodes in small, repeated reactions. A dismissive comment. An interrupted thought. Asking for input and ignoring it. A visible reaction to being challenged. Subtle impatience when someone is still forming a point.
 
@@ -111,8 +105,6 @@ It is harder. It takes more energy. And it is the actual job.
 Psychological safety is not something you declare. It is something people experience.
 
 It shows up in how quickly someone is willing to challenge you. In how early a problem is raised. In whether people admit uncertainty before it becomes failure.
-
-Change the signal, and the behavior follows.
 
 Safety does not start when people feel brave. It starts when the cost of speaking drops low enough that they no longer have to be.
 
