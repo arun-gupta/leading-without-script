@@ -98,6 +98,8 @@ Every team settles at the level of honesty its leader can handle.
 
 One framing I use with my team: "Give me the maximum information in this room, so I can defend it for you in rooms you are not in." That is the deal. If a risk has been softened or a concern has been held back, I end up defending a version of reality that is not true. That helps no one.
 
+![What psychological safety costs when missing and rewards when present, and the behaviors that shut it down](cost-and-rewards.png)
+
 Psychological safety is rarely lost in a single moment. It erodes in small, repeated reactions. A dismissive comment. An interrupted thought. Asking for input and ignoring it. A visible reaction to being challenged. Subtle impatience when someone is still forming a point.
 
 Once people recalibrate, behavior changes quickly. They speak less and filter more. They wait until they are sure, or they say nothing at all. The conversation becomes smoother, but thinner.
