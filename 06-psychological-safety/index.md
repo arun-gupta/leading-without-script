@@ -1,8 +1,8 @@
-## Psychological safety
+# Psychological safety
 
 ![Cover image](cover.png)
 
-### What this actually is
+## What this actually is
 
 Psychological safety is the shared belief that you can speak up without paying for it.
 
@@ -10,15 +10,13 @@ When it is present, people take those risks in the open. They ask, push back, an
 
 When it is missing, the same people still notice the same problems, but they weigh whether speaking up is worth it, and often decide it is not. The cost is invisible at first. The work moves and the calendar fills. Nothing looks wrong until a flaw everyone half-saw compounds into failure, rework, or a decision no one really believed in.
 
-It is not about being nice. It is not about avoiding conflict. It is not about making people comfortable. A team can be polite and still be silent, and a silent team is a dangerous team. What you are really creating is permission to take interpersonal risk in front of others.
+It is not about being nice. It is not about avoiding conflict. It is not about making people comfortable. A team can be polite and still be silent, and a silent team is a dangerous team. What you are really creating is permission to take interpersonal risk in front of others — not a feeling, but what people are willing to do in moments that carry risk.
 
-Psychological safety is not about how people feel in general. It is about what they are willing to do in moments that carry risk.
-
-### The balance that matters
+## The balance that matters
 
 Psychological safety on its own is not the goal. Amy Edmondson, who named and studied this idea, is careful on this point, and it is worth repeating: safety is not about lowering the bar. It is about raising what people can say while the bar stays high.
 
-The easiest way to see this is to put safety and standards on two axes, as expained by Amy. Every team sits in one of four zones.
+Put safety and standards on two axes. Every team sits in one of four zones.
 
 ![Amy Edmondson's 2x2 matrix of psychological safety and accountability](amy-edmondson-2x2.png)
 
@@ -30,11 +28,9 @@ The easiest way to see this is to put safety and standards on two axes, as expai
 
 **Learning zone: high safety, high standards.** People speak early, challenge directly, and are still held to a real bar. Problems surface while they are small. Disagreement is part of the work.
 
-You do not drift into the learning zone. Teams default to comfort or anxiety, depending on which side the leader is more afraid of. Too afraid of conflict, and you slide into comfort. Too afraid of slipping, and you grip your way into anxiety. Both feel responsible in the moment. Both cost you later.
+You do not drift into the learning zone. Teams default to comfort or anxiety, depending on which failure the leader fears more — conflict on one side, slipping on the other. Both feel responsible in the moment. Both cost you later. The learning zone is maintained, not declared: you reinforce openness *and* expectation, candor *and* accountability. Remove either side, and the system drifts to the nearest lower zone.
 
-The learning zone is maintained, not declared. You reinforce both sides at once—openness *and* expectation, candor *and* accountability. Remove either side, and the system drifts to the nearest lower zone.
-
-### The signal you're missing
+## The signal you're missing
 
 Most leaders believe their teams feel safe. There is a simpler way to test that belief than any survey.
 
@@ -42,13 +38,11 @@ Think about the last few meetings where something important was decided. Not sta
 
 If the answer is no, that is not alignment. The absence of conflict is apathy, and this is filtering.
 
-Silence is rarely agreement. It is calculation. People are deciding, in real time, whether speaking up is worth it. "Will this land badly?" "Is it safer to stay quiet?" If that calculation consistently ends in silence, the team is not safe, regardless of what is said about the culture.
-
-Over time, the calculation becomes habit. Small concerns go unspoken. Assumptions go unchallenged. Problems surface later, when they are harder and more expensive to fix. The system looks stable until it suddenly isn't.
+Silence is rarely agreement. It is calculation. *"Will this land badly?" "Is it safer to stay quiet?"* Over time, that calculation becomes habit. Small concerns go unspoken. Assumptions go unchallenged. Problems surface later, when they are harder and more expensive to fix. The system looks stable until it suddenly isn't.
 
 You don't measure the health of a team by what is said. You measure it by what never gets said at all.
 
-### The Psychological Safety Loop
+## The Psychological Safety Loop
 
 The opposite of silence isn't speaking. It is a pattern the team can run on itself. Four moves, repeated until they stop being yours alone.
 
@@ -66,15 +60,13 @@ Reward the act of speaking before you respond to the content. The person who jus
 **4. Model — "I got this wrong." "I don't know yet."**
 Go first on the hardest things. Asking others to admit uncertainty or mistakes while never doing it yourself doesn't hold. The cost of honesty has to be paid at the top of the room first.
 
-These aren't separate tools. Invite opens the door. Expand pulls more in. Validate keeps the door open. Model lowers the bar for who has to go first next time. Run this pattern consistently and the loop stops being yours alone — the team starts running it on each other.
+These aren't separate tools. They form a loop — each move lowers the cost of the next. Run it consistently and it stops being yours alone. The team starts running it on each other.
 
-### Where it really comes from
+## Where it really comes from
 
 Psychological safety is not a team trait. It is a leadership signal.
 
-People read that signal in two streams at once: the words you use, and what your body and attention are doing while you use them. Both have to agree, or the room believes the quieter one.
-
-Much of the work is non-verbal. Who you look at when a question is asked. Whether you turn toward the person pushing back or away from them. Whether your face changes when the news is bad. Whether you keep typing while someone is talking. Whether you let silence sit long enough for the quieter people to step in, or fill it yourself. Whether your tone tightens the moment you are challenged.
+People read that signal in two streams at once: the words you use, and what your body and attention are doing while you use them. Both have to agree, or the room believes the quieter one — and much of that quieter stream is non-verbal. Who you look at when a question is asked. Whether you turn toward the person pushing back or away from them. Whether your face changes when the news is bad. Whether you keep typing while someone is talking. Whether you let silence sit long enough for the quieter people to step in, or fill it yourself. Whether your tone tightens the moment you are challenged.
 
 People track all of this, even if they can't name it.
 
@@ -90,27 +82,23 @@ A new person on the team gives an incomplete answer. You don't finish the senten
 
 None of these are scripts. They are evidence. In my meetings, I practice them regularly.
 
-People don't decide once if it is safe to speak. They watch what happens when someone disagrees with you, when someone says "I don't know," when something breaks. Those moments teach the system more than any statement ever will.
-
 Every team settles at the level of honesty its leader can handle.
 
-### What it costs, and what it rewards
+## What it costs, and what it rewards
 
 One framing I use with my team: "Give me the maximum information in this room, so I can defend it for you in rooms you are not in." That is the deal. If a risk has been softened or a concern has been held back, I end up defending a version of reality that is not true. That helps no one.
 
-![What psychological safety costs when missing and rewards when present, and the behaviors that shut it down](cost-and-rewards.png)
+![Cost and rewards of psychological safety](cost-and-rewards.png)
 
 Psychological safety is rarely lost in a single moment. It erodes in small, repeated reactions. A dismissive comment. An interrupted thought. Asking for input and ignoring it. A visible reaction to being challenged. Subtle impatience when someone is still forming a point.
 
-Once people recalibrate, behavior changes quickly. They speak less and filter more. They wait until they are sure, or they say nothing at all. The conversation becomes smoother, but thinner.
-
-Fear does not usually show up as tension or conflict. It shows up as politeness. And once a team becomes polite, it becomes slow.
+Fear doesn't show up as tension or conflict — it shows up as politeness. People speak less and filter more. The conversation becomes smoother, but thinner. And once a team becomes polite, it becomes slow.
 
 What you reward is the loudest signal. When people raise risks early, ask for help, challenge assumptions, or surface problems before they grow, your response teaches the team what is valued. What you do not punish carries almost as much weight. Honest mistakes, incomplete thinking, and dissent that improves the outcome must not carry a hidden cost later. No cooler tone. No quiet exclusion.
 
 And there are behaviors you shut down immediately. Ridicule, defensiveness, passive aggression, ignoring input after inviting it. Tolerating them once is a signal. Tolerating them twice is a policy.
 
-### When you are not the one setting the weather
+## When you are not the one setting the weather
 
 Most writing on psychological safety assumes you are the one at the top. For many readers, that is not the situation.
 
@@ -120,7 +108,7 @@ You cannot fix that system from where you sit. What you can do is hold the line 
 
 It is harder. It takes more energy. And it is the actual job.
 
-### The standard you set
+## The standard you set
 
 Psychological safety is not something you declare. It is something people experience.
 
