@@ -80,7 +80,7 @@ You realize mid-meeting that your own framing was off. You say so, out loud. "I 
 
 A new person on the team gives an incomplete answer. You don't finish the sentence for them. You give them the extra few seconds. The next time they have a half-formed idea, they are more likely to try it.
 
-None of these are scripts. They are evidence. In my meetings, I practice them regularly.
+None of these are scripts, but they are evidence. In my meetings, I practice them regularly.
 
 Every team settles at the level of honesty its leader can handle.
 
