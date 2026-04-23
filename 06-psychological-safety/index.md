@@ -18,7 +18,7 @@ Psychological safety is not about how people feel in general. It is about what t
 
 Psychological safety on its own is not the goal. Amy Edmondson, who named and studied this idea, is careful on this point, and it is worth repeating: safety is not about lowering the bar. It is about raising what people can say while the bar stays high.
 
-The easiest way to see this is to put safety and standards on two axes. Every team sits in one of four zones.
+The easiest way to see this is to put safety and standards on two axes, as expained by Amy. Every team sits in one of four zones.
 
 ![Amy Edmondson's 2x2 matrix of psychological safety and accountability](amy-edmondson-2x2.png)
 
@@ -48,15 +48,33 @@ Over time, the calculation becomes habit. Small concerns go unspoken. Assumption
 
 You don't measure the health of a team by what is said. You measure it by what never gets said at all.
 
+### The Psychological Safety Loop
+
+The opposite of silence isn't speaking. It is a pattern the team can run on itself. Four moves, repeated until they stop being yours alone.
+
+![The Psychological Safety Loop: Invite, Expand, Validate, Model](psychological-safety-loop.png)
+
+**1. Invite — "Tell me more." "Say more."**
+Signal that there is room for the full version of what someone is trying to say, not just the cleaned-up summary.
+
+**2. Expand — "What am I missing?" "What are we not thinking about?"**
+Put your own limits on the table first. That makes it cheaper for everyone else to do the same, and shifts the frame from *defend the plan* to *pressure-test the plan*.
+
+**3. Validate — "That's a good challenge." "Thanks for flagging it early."**
+Reward the act of speaking before you respond to the content. The person who just took a risk learns that going first isn't punished. The rest of the room learns it too.
+
+**4. Model — "I got this wrong." "I don't know yet."**
+Go first on the hardest things. Asking others to admit uncertainty or mistakes while never doing it yourself doesn't hold. The cost of honesty has to be paid at the top of the room first.
+
+These aren't separate tools. Invite opens the door. Expand pulls more in. Validate keeps the door open. Model lowers the bar for who has to go first next time. Run this pattern consistently and the loop stops being yours alone — the team starts running it on each other.
+
 ### Where it really comes from
 
 Psychological safety is not a team trait. It is a leadership signal.
 
-People read that signal in two streams at once: what you say, and what you do while you are saying it. Both have to agree, or the room believes the quieter one.
+People read that signal in two streams at once: the words you use, and what your body and attention are doing while you use them. Both have to agree, or the room believes the quieter one.
 
-The verbal cues are small and easy to miss if you are not listening for them. "Tell me more." "What am I missing?" "That's a good challenge, let me think about it." "I got this wrong." "I don't know yet, and I'm not going to pretend." These are not slogans. They are signals, in real time, that disagreement and uncertainty do not cost anything in your room.
-
-The non-verbal cues are doing at least as much work. Who you look at when a question is asked. Whether you turn toward the person pushing back or away from them. Whether your face changes when the news is bad. Whether you keep typing while someone is talking. Whether you let silence sit long enough for the quieter people to step in, or fill it yourself. Whether your tone tightens the moment you are challenged.
+Much of the work is non-verbal. Who you look at when a question is asked. Whether you turn toward the person pushing back or away from them. Whether your face changes when the news is bad. Whether you keep typing while someone is talking. Whether you let silence sit long enough for the quieter people to step in, or fill it yourself. Whether your tone tightens the moment you are challenged.
 
 People track all of this, even if they can't name it.
 
