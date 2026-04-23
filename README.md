@@ -64,11 +64,14 @@ These chapters __pair your behavior with others__ ([communication](05-communicat
 - Repetition and brevity: same substance across venues, short enough to travel and repeat until it lands  
 
 ### 6. [Psychological safety](06-psychological-safety/index.md)
-- Your credibility: dropping the mask, naming limits, and admitting uncertainty without eroding the bar  
-- Psychological safety: lowering the cost of speaking up, being wrong, or dissenting early (whether honesty feels survivable)  
-- How your vulnerability and follow-through shape whether people trust the team’s risk climate  
-- Finding direction together while holding accountability; pretending to know everything backfires  
-- Signals that build psychological safety (invite truth, absorb bad news) vs reactions that drain it after someone goes first  
+- What it actually is: a shared belief you can speak up without paying for it; about what people are willing to do, not how they feel  
+- The balance that matters: Edmondson’s 2x2 — apathy, comfort, anxiety, or learning zone — maintained, not declared  
+- The signal you’re missing: silence is calculation, not agreement; the health of a team shows in what never gets said  
+- The Psychological Safety Loop: four moves — invite, expand, validate, model — the team eventually runs on each other  
+- Where it really comes from: a leadership signal, not a team trait; words and body have to agree, or the room believes the quieter one  
+- What it costs, and what it rewards: erosion in small, repeated reactions; what you reinforce, what you don’t punish, what you shut down  
+- When you are not the one setting the weather: holding the line from the middle — absorbing the cost of honesty so the signal does not degrade below you  
+- The standard you set: safety shows up in what people are willing to say; your job is to carry the cost of speaking so they don’t have to  
 
 ### 7. Conflict, Decisions, and Commitment
 - Disagreement as work: healthy teams disagree more in the open, with productive heat vs attacks or stalemate  
