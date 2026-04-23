@@ -10,7 +10,7 @@ When it is present, people take those risks in the open. They ask, push back, an
 
 When it is missing, the same people still notice the same problems, but they weigh whether speaking up is worth it, and often decide it is not. The cost is invisible at first. The work moves and the calendar fills. Nothing looks wrong until a flaw everyone half-saw compounds into failure, rework, or a decision no one really believed in.
 
-It is not about being nice. It is not about avoiding conflict. It is not about making people comfortable. A team can be polite and still be silent, and a silent team is a dangerous team. What you are really creating is permission to take interpersonal risk in front of others — not a feeling, but what people are willing to do in moments that carry risk.
+It is not about being nice. It is not about avoiding conflict. It is not about making people comfortable. A team can be polite and still be silent, and a silent team is a dangerous team. What you are really creating is permission to take interpersonal risk in front of others. Not a feeling, but what people are willing to do in moments that carry risk.
 
 ## The balance that matters
 
@@ -28,7 +28,15 @@ Put safety and standards on two axes. Every team sits in one of four zones.
 
 **Learning zone: high safety, high standards.** People speak early, challenge directly, and are still held to a real bar. Problems surface while they are small. Disagreement is part of the work.
 
-You do not drift into the learning zone. Teams default to comfort or anxiety, depending on which failure the leader fears more — conflict on one side, slipping on the other. Both feel responsible in the moment. Both cost you later. The learning zone is maintained, not declared: you reinforce openness *and* expectation, candor *and* accountability. Remove either side, and the system drifts to the nearest lower zone.
+You do not drift into the learning zone. Teams default to comfort or anxiety, depending on which failure the leader fears more: conflict on one side, slipping on the other. Both feel responsible in the moment. Both cost you later. The learning zone is maintained, not declared: you reinforce openness *and* expectation, candor *and* accountability. Remove either side, and the system drifts to the nearest lower zone.
+
+## Mistakes as raw material
+
+In the learning zone, a mistake is not a verdict. It is information. Something missed, a wrong assumption, a decision that looked right and wasn't. The question isn't *who was wrong*. It is *what did we just learn, and what do we build so this doesn't happen the same way again?*
+
+That turns each mistake into a mechanism: a checklist, a guardrail, a cleaner interface between two teams, a pre-mortem next time. Think of them as training wheels. They keep the team steady while the lesson becomes instinct. Some come off once the capability has been absorbed. Others stay on, because the failure they prevent is too expensive to re-learn from.
+
+Over time, this compounds. The team takes on harder work, not because it is confident nothing will go wrong, but because it trusts itself to recover and systematize. Safety without this step produces comfort. Safety *with* it produces capability.
 
 ## The signal you're missing
 
@@ -48,25 +56,25 @@ The opposite of silence isn't speaking. It is a pattern the team can run on itse
 
 ![The Psychological Safety Loop: Invite, Expand, Validate, Model](psychological-safety-loop.png)
 
-**1. Invite — "Tell me more." "Say more."**
+**1. Invite.** *"Tell me more." "Say more."*
 Signal that there is room for the full version of what someone is trying to say, not just the cleaned-up summary.
 
-**2. Expand — "What am I missing?" "What are we not thinking about?"**
+**2. Expand.** *"What am I missing?" "What are we not thinking about?"*
 Put your own limits on the table first. That makes it cheaper for everyone else to do the same, and shifts the frame from *defend the plan* to *pressure-test the plan*.
 
-**3. Validate — "That's a good challenge." "Thanks for flagging it early."**
+**3. Validate.** *"That's a good challenge." "Thanks for flagging it early."*
 Reward the act of speaking before you respond to the content. The person who just took a risk learns that going first isn't punished. The rest of the room learns it too.
 
-**4. Model — "I got this wrong." "I don't know yet."**
+**4. Model.** *"I got this wrong." "I don't know yet."*
 Go first on the hardest things. Asking others to admit uncertainty or mistakes while never doing it yourself doesn't hold. The cost of honesty has to be paid at the top of the room first.
 
-These aren't separate tools. They form a loop — each move lowers the cost of the next. Run it consistently and it stops being yours alone. The team starts running it on each other.
+These aren't separate tools. They form a loop, where each move lowers the cost of the next. Run it consistently and it stops being yours alone. The team starts running it on each other.
 
 ## Where it really comes from
 
 Psychological safety is not a team trait. It is a leadership signal.
 
-People read that signal in two streams at once: the words you use, and what your body and attention are doing while you use them. Both have to agree, or the room believes the quieter one — and much of that quieter stream is non-verbal. Who you look at when a question is asked. Whether you turn toward the person pushing back or away from them. Whether your face changes when the news is bad. Whether you keep typing while someone is talking. Whether you let silence sit long enough for the quieter people to step in, or fill it yourself. Whether your tone tightens the moment you are challenged.
+People read that signal in two streams at once: the words you use, and what your body and attention are doing while you use them. Both have to agree, or the room believes the quieter one, and much of that quieter stream is non-verbal. Who you look at when a question is asked. Whether you turn toward the person pushing back or away from them. Whether your face changes when the news is bad. Whether you keep typing while someone is talking. Whether you let silence sit long enough for the quieter people to step in, or fill it yourself. Whether your tone tightens the moment you are challenged.
 
 People track all of this, even if they can't name it.
 
@@ -92,7 +100,7 @@ One framing I use with my team: "Give me the maximum information in this room, s
 
 Psychological safety is rarely lost in a single moment. It erodes in small, repeated reactions. A dismissive comment. An interrupted thought. Asking for input and ignoring it. A visible reaction to being challenged. Subtle impatience when someone is still forming a point.
 
-Fear doesn't show up as tension or conflict — it shows up as politeness. People speak less and filter more. The conversation becomes smoother, but thinner. And once a team becomes polite, it becomes slow.
+Fear doesn't show up as tension or conflict. It shows up as politeness. People speak less and filter more. The conversation becomes smoother, but thinner. And once a team becomes polite, it becomes slow.
 
 What you reward is the loudest signal. When people raise risks early, ask for help, challenge assumptions, or surface problems before they grow, your response teaches the team what is valued. What you do not punish carries almost as much weight. Honest mistakes, incomplete thinking, and dissent that improves the outcome must not carry a hidden cost later. No cooler tone. No quiet exclusion.
 
@@ -103,6 +111,8 @@ And there are behaviors you shut down immediately. Ridicule, defensiveness, pass
 Most writing on psychological safety assumes you are the one at the top. For many readers, that is not the situation.
 
 You may be running a team inside a larger system that does not reward the behavior you are trying to model. You ask "what am I missing?" and your own manager reads it as indecision. You admit a mistake in public and watch it resurface in a performance conversation six months later. You push back in a skip-level and the room cools around you.
+
+Each time, you face the same decision: say it anyway and absorb the cost, or stay quiet and let the gap widen. Neither is free. Staying quiet protects you in the short term, but your team is watching. They learn the ceiling of your honesty and start filtering at that level before anything reaches you. Speaking up anyway costs you, sometimes repeatedly, and the cost is rarely distributed fairly. This is the part of the job most leadership writing skips.
 
 You cannot fix that system from where you sit. What you can do is hold the line for the people who report to you. You can absorb the cost of honesty at your level instead of passing it down. You can defend the person who flagged the risk, even when the risk is inconvenient. You can be the layer where the signal does not degrade.
 

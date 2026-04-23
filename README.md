@@ -65,12 +65,13 @@ These chapters __pair your behavior with others__ ([communication](05-communicat
 
 ### 6. [Psychological safety](06-psychological-safety/index.md)
 - What it actually is: a shared belief you can speak up without paying for it; about what people are willing to do, not how they feel  
-- The balance that matters: Edmondson’s 2x2 — apathy, comfort, anxiety, or learning zone — maintained, not declared  
+- The balance that matters: Edmondson’s 2x2 (apathy, comfort, anxiety, or learning zone), maintained, not declared  
+- Mistakes as raw material: each mistake becomes a mechanism like a checklist, guardrail, or pre-mortem; training wheels that keep the team steady until the lesson becomes instinct; safety without this produces comfort, safety with it produces capability  
 - The signal you’re missing: silence is calculation, not agreement; the health of a team shows in what never gets said  
-- The Psychological Safety Loop: four moves — invite, expand, validate, model — the team eventually runs on each other  
+- The Psychological Safety Loop: four moves (invite, expand, validate, model) the team eventually runs on each other  
 - Where it really comes from: a leadership signal, not a team trait; words and body have to agree, or the room believes the quieter one  
 - What it costs, and what it rewards: erosion in small, repeated reactions; what you reinforce, what you don’t punish, what you shut down  
-- When you are not the one setting the weather: holding the line from the middle — absorbing the cost of honesty so the signal does not degrade below you  
+- When you are not the one setting the weather: the decision every time you consider speaking up to an unsafe manager; your team learns the ceiling of your honesty; holding the line from the middle by absorbing the cost so the signal does not degrade below you  
 - The standard you set: safety shows up in what people are willing to say; your job is to carry the cost of speaking so they don’t have to  
 
 ### 7. Conflict, Decisions, and Commitment
